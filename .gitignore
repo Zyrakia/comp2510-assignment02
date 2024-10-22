@@ -1,0 +1,5 @@
+# Compilation output files
+/**/build
+
+# Compilation targets
+/**/*.exe
